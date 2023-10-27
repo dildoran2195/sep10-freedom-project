@@ -3,10 +3,14 @@
 <h1>
   Why Economics
 </h1>
-For my project, I chose the topic of Economics after thinking if I will choose jewerly/goods or education but I didn´t because I love to improve more on economics. I want to choose this topic as my major at Brooklyn College. This topic covers existed and significant things such as tax, business, interest rates, wealth, and inflation. I´m obsessed with business that have companies making cool cars in modern days by Economics, especailly Tesla because this comapny have a lot of benefits such as smaller carbon footprint, increased performance, advanced technology, and social status. I liked to see great examples of Tesla that gived me cool and different ideas at some point for my website about cars. Lastly, my backup ideas are luxury Goods/Jewelry and Economic.
-Look at the example for Blog 1 Entry 1:
-The two main links that I used to explore was 10 Signs That You Should Become an Architect and How Technology Is Transforming Architectural Design. The first link helps me know what the field architecture is. And the second link tells me what technologies are used in the field of Architecture. Some other links that I had explored were What Tools Does an Architect Use? and 25 Tools and Devices for Architects — Journey of an Architect. These two were links that helped me understand the intro of architecturing and what were devices/technology that were helpful in architecture.
+For my project, I chose the topic of Economics after thinking if I will choose jewerly/goods or education but I didn´t because I love to improve more on economics. I want to choose this topic as my major at Brooklyn College. This topic covers existed and significant things such as tax, business, interest rates, wealth, and inflation. I´m obsessed with business that have websites for companies making cool cars in modern days by Economics, especailly Tesla because this comapny have a lot of benefits such as smaller carbon footprint, increased performance, advanced technology, and social status. I liked to see great examples of Tesla that gived me positive ideas at some point for my website about cars. Lastly, my backup ideas are luxury Goods/Jewelry and Education. 
 
+I used [3 Ways to Help Improve Economy](https://www.wikihow.com/Help-Improve-the-Economy), [What Are Ways Economic Growth Can Be Archived](https://www.investopedia.com/ask/answers/032415/what-are-some-ways-economic-growth-can-be-achieved.asp), and [10 Things To Know About Economic Development](https://www.ci.saginaw.tx.us/DocumentCenter/View/12175/BSC_10_things_to_know_about_econ_devt_) as the two main links. The first links helps me how businss is going to start successfully by economics. While the 2nd link tells me about key takeaways of economics. My last link taught me what are different types of ways to improve anything such as education, health, and literacy by economics. All of my great links that helped me learn deep and the development of economics were clear, specific and beneficial.
+
+<h1>
+  EDP
+</h1>
+Dont use anything from example below for edp summary and skills because it is cheating and you are in list of cheaters so this time it is either parent meeting or phone call and 50 on any of your school work so do it on your own. this work needs to have multiple paragrps that are separated so google about this or ask slack
 EDP
 Now, I am on the (Step 1) defining and the (Step 2) researching step of the EDP (engineering design process). At first, we were defining what we are most passionate about. Then, we do more deep research in the field that we are more passionate about and do more research about the technology that is used in that career. For instance, some technologies that were used in the field of architecture are “3D printers, augmented writing, and virtual reality.” I think I'll be on step 2 for a while before I move on to the next step of brainstorming possible solutions.
 
@@ -18,22 +22,5 @@ Another skill that I also achieved was How to Read. After googling, we needed to
 Summary
 Overall, I'm really excited to make a website about the technology of architecture. It all started with the inspiration of a restaurant in Fort Hamilton, and maybe I'll have a future career in architecture!
 
-Delete everything except your blog 1 and check your work
-<h3>
-  Coding languages I used 
-</h3>
-<ol>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> Github </li>
-  <li> I also chose to independently study economics due to no one chose this topic except me. </li>
-</ol>
-<h1>
-EDP (Engineering design process)
-</h1>
-I wanted to solve main issues in 2023 on economins so I chose [Global Outlook, June 2023](https://www.oecd.org/economic-outlook/june-2023/). This article 
-
-
-2nd source I used to reach my goal is [.        ](.                    )
 
 
