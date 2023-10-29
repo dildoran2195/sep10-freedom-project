@@ -18,8 +18,10 @@ One skill that I learned during this experience is How to Google. I say this bec
 
 Another skill that I also achieved was How to Read. After googling, we needed to see which article matches with the topic by reading closely. There were a lot of terms I didn't know, such as "CAD" (which I then Googled, and that ties into my first skill. By the way, it means "computer aided design"). But reading an article is a lot different than reading a novel. A lot of articles have headings and subheadings that break up the text into smaller chunks, making it easier to read. I think that also helps me in the way that I write, for example, I added headings to this blog entry so that hopefully it's easier for you to read!
 
-Summary
-Overall, I'm really excited to make a website about the technology of architecture. It all started with the inspiration of a restaurant in Fort Hamilton, and maybe I'll have a future career in architecture!
+<h1>
+  Summary
+</h1>
+<h4> Overall, I'm really excited to make a website about the technology of architecture. It all started with the inspiration of a restaurant in Fort Hamilton, and maybe I'll have a future career in architecture!
 
 
 
