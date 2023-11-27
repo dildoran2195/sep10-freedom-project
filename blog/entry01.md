@@ -24,11 +24,7 @@
   Summary
 </h1>
 
-#### Finally, I'm really nervous about making a website about the technology of economics. It started with the inspiration of being popular, rich, and great business lady and I believe myself that I will become great, rich, and popular business lady in economic
-
-
-
-the future after graduating from NYU and choosing economics as my major.</h4>
+#### Finally, I'm really nervous about making a website about the technology of economics. It started with the inspiration of being popular, rich, and great business lady and I believe myself that I will become great, rich, and popular business lady in the future after graduating from NYU and choosing economics as my major.
 
 
 
