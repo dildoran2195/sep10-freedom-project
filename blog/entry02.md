@@ -1,8 +1,6 @@
 # Entry 2
-##### X/X/XX
+##### Economics
 
-Text
+Use slides from 11/27/23 because this entry is a lot differnet 
 
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
+Use Blog 1 bc i u need to use makdown 
