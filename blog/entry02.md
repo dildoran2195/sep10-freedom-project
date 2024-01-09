@@ -51,9 +51,12 @@
 * It is sed by public and economists
 * Chromebook runs on Chrome OS - An operating system by Google that is built for the way we live today
 * It updates automatically, boots up in seconds and continues to stay fast over time
-*  All the Google apps you know and love come standard on every Chromebook, which means you can edit, download, and convert Microsoft Office files in Google Docs, Sheets and Slides.
+* You can edit, download, and convert Microsoft Office files in Google Docs, Sheets and Slides.
 
-## 
+## Engineering Design Process
+
+#### Since I completed "Define the problem"
+Research the problem
 
 
 
