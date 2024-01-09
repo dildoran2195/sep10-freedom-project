@@ -56,8 +56,7 @@
 
 ## Engineering Design Process
 
-#### Since I completed "Define the problem"
-Research the problem
+#### Since I completed Define the problem which was Step 1 and I also completed Research the problem which was Step 2. 
 
 
 
