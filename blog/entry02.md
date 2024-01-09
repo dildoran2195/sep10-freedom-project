@@ -60,7 +60,13 @@
 
 ## Skills
 
-#### One skill that I gained is Organization by FP synthesize Part A that has information about `software` and `hardware` for economists becasuse I need to find detials about any gadget, tools, machinery for `hardware` and programs, websites, and data for `software` so I did find a lot. Therefore, I needed to organize details that I found in order to not get confused and frustrated while I'm using that details for something else. Plus, I'll feel unconfident when I don't organize my details for Freedom Project that will have impact on my future while I'm doing my SEP homework or classwork. 
+#### One skill that I gained is Organization by FP synthesize Part A that has information about `software` and `hardware` for economists becasuse I need to find detials about any gadget, tools, machinery for `hardware` and programs, websites, and data for `software` so I did find a lot. Therefore, I needed to organize details that I found in order to not get confused and frustrated while I'm using that details for something else. Plus, I'll feel unconfident when I don't organize my details for Freedom Project that will have impact on my future while I'm doing my SEP homework or classwork.
+
+#### Another skill that I gained is Collaboration by FP synthesize Part A that has information about `software` and `hardware` for economists because I ask a lot of help from Mr. Mueller and a junior whos name is Samuel. One day, Mr.Mueller introduced a junior named Samuel to us because I think he was great in SEP so he probably got Mr.Mueller's trust and attention. Therefore, he was in school to help us especially me when I was finding my `hardware`. It wasn't easy to find gadget by doing reaserch in Google so I call on that wise junior and he told me AI was not gadget which was big help because if he didn't told that to me, I'll be keep thinking `software` is `hardware` when it was not accurate. I also raise my hand to Mr.Mueller to help me if I need to paste link to logo of data or program that I found and I did needed that link so I did paste it but later I also paste link to website becasuse I though it was really beneficial. Therefore, thank you to both of hese people whom are Mr.Mueller and Samuel. 
+
+## Summary
+I'm really proud that I completed my FP synthesize Part A that has information about `software` and `hardware` for economists because it helped me to gain skills for my future. This was not easy bceuase it was challenging and I never had experience doing FP synthesize Part A therefore I'm hapy that I got through this complicated progress. 
+
 
 
 
