@@ -58,6 +58,10 @@
 
 #### Since I completed Define the problem which was Step 1 and I also completed Research the problem which was Step 2. I'm on Brainstorm possible solutions which is Step 3. Therefore, I did a lot of research's about `hardware` and `software` for economists that should sovle issues that poor economists are facing today. It was not easy but interesting because I gained a lot of knowledge about what I'm passionate. Even though, it was frustrating because not all websites are accurate and appropriate. Therefore, I read a lot of websites about `hardware and `software` but best programs, websites, and data for `software` were [Gretl](https://gretl.sourceforge.net/), [Matlab](https://www.mathworks.com/products/matlab.html), and [IBM](https://www.ibm.com/downloads/cas/XBZ7DOJM) while best gadgets, tools, and machinery were [Apple M2 chip](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIyectOULM1gbVwQHqXN7Q5QzveLXssz5lSkL7nQVA&s), [Lenovo ThinkPad E15 Gen 2 Home & Business Laptop](https://m.media-amazon.com/images/I/71hwpV5oXsL._AC_UF894,1000_QL80_.jpg), and [Acer Chromebook Spin 314 Convertible Laptop](https://m.media-amazon.com/images/I/51soQu6K+FL.jpg). My plans for next step which is Plan the most promising solution inclues, I'm am nervous about this step because I don't have experience doing Step 4 but I should be great because I survived when completing Step 1, Step 2, and Step 3.
 
+## Skills
+
+#### One skill that I gained is Organization by FP synthesize Part A that has information about `software` and `hardware` for economists becasuse I need to find detials about any gadget, tools, machinery for `hardware` and programs, websites, and data for `software` so I did find a lot. Therefore, I needed to organize details that I found in order to not get confused and frustrated while I'm using that details for something else. Plus, I'll feel unconfident when I don't organize my details for Freedom Project that will have impact on my future while I'm doing my SEP homework or classwork. 
+
 
 
 
