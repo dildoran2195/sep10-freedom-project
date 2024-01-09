@@ -53,7 +53,7 @@
 * It updates automatically, boots up in seconds and continues to stay fast over time
 *  All the Google apps you know and love come standard on every Chromebook, which means you can edit, download, and convert Microsoft Office files in Google Docs, Sheets and Slides.
 
-
+## 
 
 
 
