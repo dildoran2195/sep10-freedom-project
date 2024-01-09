@@ -1,5 +1,5 @@
 # Entry 2
-## Economics
+# Economics
 
 ### Content
 
