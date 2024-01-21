@@ -1,10 +1,10 @@
 # Entry 3
 ##### 1/21/24
 
-### Content
+## Content
 #### I completed my FP synthesize Part A
 for `hardware` and `software`, I also completed FB synthesize Part B for both `hardware` and `software`. Both of my Part A and Part B is about economics. I completed these in my [notes](https://docs.google.com/document/d/1Ob0IVBj5geUdPDqY5nFb1ioquE-PBDo0YSjW7TlT414/edit?usp=drivesdk) for SEP10.
-#### My FB synthesize Part A for both `software` and `hardware` is:
+### My FB synthesize Part A for both `software` and `hardware` is:
 `Software`:
 * [Website](https://images.sftcdn.net/images/t_app-icon-m/p/93a14b7c-96d4-11e6-b980-00163ed833e7/1884510348/gretl-1884510348.png)
 * Used by mainly econometrics and public 
@@ -62,5 +62,8 @@ All the Google apps you know and love come standard on every Chromebook, which m
 * Intel Wireless Wi-Fi 6 AX201 802.11ax Dual-Band 2.4GHz and 5GHz featuring 2x2 MU-MIMO technology | Bluetooth 5.1 | DTS Audio with Two Built-in Face-Up Stereo Speakers 
 1 - USB Type C port supporting USB 3.2 Gen 1 (up to 5 Gbps), DisplayPort over USB-C, USB Charging, DC-in | 2 - USB 3.2 Gen 1 ports | 1 - HDMI Port
 OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
+
+## EDP
+#### 
 
 
