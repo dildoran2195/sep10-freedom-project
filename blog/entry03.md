@@ -81,15 +81,15 @@ OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
 * Tells news about economics and it will get its information from being partners with [The New York Times](https://www.nytimes.com/section/business/economy), [CNBC](https://www.cnbc.com/economy/), [The Economist](https://www.economist.com/), and [AP News](https://apnews.com/hub/economy)
 * Asks what other things you need to improve yourself or your company and it gets information from [Career Building Tips for Economists](https://programs.online.american.edu/econ/masters-economics/resources/career-building-t), [University of Houston](https://uh.edu/class/economics/undergraduate/internship/general-advice/), [Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/economics-skills), and [IONOMICS](https://inomics.com/advice/10-qualities-that-define-a-good-economist-1140895)
 * Best For Economists App
-* Gives you free laptop and building for your company if your idea is great and beneficial for public, and it gets these things from EBT  free Laptop - Free government Laptop, and Harvard Environmental Economics Program
-People who have idea for economists can contact you for you to improve on it and it gets information from Institute for New Economic Thinking, The Economics Network, and Indiana University - Purdue University Indianapolis
-EcoMoney (Eco-Economists
-This is gadget that economists could have in their office 
-it is going to tell if money is fake or not, and it will be bought or created by Atlassian Support
-Saves economists time and money which paves progress for them to continue they work and not be in trouble for having fake money
-EcoIpad (Eco-Economists)
-This is also gadget that economists could have in their office 
-It is not easy to download apps that I just wrote above such as Best for Economists App, EcoCommunicate App, Plan My Company App, Economists App, and EcoAmigo App because these apps are a lot, takes time, and money from economists to download it therefore this IPad will have all of these already downloaded and paid with Economic Development Administration (.gov), American Economic Association, and United States Department of Agriculture (.gov)
+* Gives you free laptop and building for your company if your idea is great and beneficial for public, and it gets these things from [EBT  free Laptop - Free government Laptop](https://contactsenators.com/articles/free-laptop-with-food-stamps/), and [Harvard Environmental Economics Program](https://heep.hks.harvard.edu/sponsors)
+* People who have idea for economists can contact you for you to improve on it and it gets information from [Institute for New Economic Thinking](https://www.ineteconomics.org/about/our-purpose), [The Economics Network](https://economicsnetwork.ac.uk/themes/communicating), and [Indiana University - Purdue University Indianapolis](https://engage.iupui.edu/economic-development/economic-dev-entrepreneurship/idea-exchange.html)
+* EcoMoney (Eco-Economists
+* This is gadget that economists could have in their office 
+* it is going to tell if money is fake or not, and it will be bought or created by [Atlassian Support](https://support.atlassian.com/jira-cloud-administration/docs/use-dashboard-gadgets/)
+* Saves economists time and money which paves progress for them to continue they work and not be in trouble for having fake money
+* EcoIpad (Eco-Economists)
+* This is also gadget that economists could have in their office 
+* It is not easy to download apps that I just wrote above such as Best for Economists App, EcoCommunicate App, Plan My Company App, Economists App, and EcoAmigo App because these apps are a lot, takes time, and money from economists to download it therefore this IPad will have all of these already downloaded and paid with [Economic Development Administration (.gov)](https://www.eda.gov/funding/funding-opportunities), [American Economic Association](https://www.aeaweb.org/resources/funding-and-grants), and [United States Department of Agriculture (.gov)](https://www.rd.usda.gov/programs-services/community-facilities/economic-impact-initiative-grants)
 
 ## EDP
 #### 
