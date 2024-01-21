@@ -17,8 +17,8 @@ It is also time-series library
 * Used my students, public, and econometrics
 * It have get support 
 * MATLAB can be used with a lot, academic, different, and significant stuff
-* One of the Capabilities of this website is all building  
-[Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSU45FkTOfnSYMoF76emsspAXVJD9psJkFOg&usqp=CAU)
+* One of the Capabilities of this website is all building
+* [Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSU45FkTOfnSYMoF76emsspAXVJD9psJkFOg&usqp=CAU)
 * Used by public and economists 
 * Benefits
 * Pricing plans
@@ -49,7 +49,7 @@ It is also time-series library
 *【High Speed and Multitasking】 16GB DDR4 RAM (8GB Onboard + 8GB SODIMM); 65W Power Supply, 3-Cell 45 WHr Battery; Silver Color, . 
 *【Enormous Storage】 512GB PCIe NVMe SSD; USB 3.2 Gen1, 1 USB 2.0, 1 HDMI, USB 3.2 Type-C Gen1, No Optical Drive,Fingerprint,Backlit, Headphone/Microphone Combo Jack., Windows 10 Pro-64., 1 Year Manufacturer warranty from GreatPriceTech (Professionally upgraded by GreatPriceTech) 
 * Includes Dockstar USB Hub(Special Edition Portable Docztorm Data Hub;Super Speedy Data Syn Rate upto 5Gbps)
-[Acer Chromebook Spin 314 Convertible Laptop](https://m.media-amazon.com/images/I/51soQu6K+FL.jpg)
+* [Acer Chromebook Spin 314 Convertible Laptop](https://m.media-amazon.com/images/I/51soQu6K+FL.jpg)
 * Used by public and economists
 Chromebook runs on Chrome OS - An operating system by Google that is built for the way we live today.
 * It updates automatically, boots up in seconds and continues to stay fast over time. (Internet connection is required).
