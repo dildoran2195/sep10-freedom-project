@@ -92,6 +92,8 @@ OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
 * It is not easy to download apps that I just wrote above such as Best for Economists App, EcoCommunicate App, Plan My Company App, Economists App, and EcoAmigo App because these apps are a lot, takes time, and money from economists to download it therefore this IPad will have all of these already downloaded and paid with [Economic Development Administration (.gov)](https://www.eda.gov/funding/funding-opportunities), [American Economic Association](https://www.aeaweb.org/resources/funding-and-grants), and [United States Department of Agriculture (.gov)](https://www.rd.usda.gov/programs-services/community-facilities/economic-impact-initiative-grants)
 
 ## EDP
-#### 
+#### I completed Step 4 which was Create a prototype. Prototype is my creation which is the project I'm doing. I did my own thinking and building in my head in order to do my Part A. Even though Part A was mostly about doing research but I also read and think if what I read about websites that I found is enough and accurate for economists in order to improve on economics. This also required my building skill in my head because websites that I found gived me introduction about it so I tried to find if those websites are build enough and they were build enough. Yay!
+
+#### I also completed Step 5 which was test and evaluate the prototype. This step was mostly required to complete my Part B which was doing future plans about websites and gadgets for economists in order to improve economics. I test whatever I found in my with finding companies that does most of the work for my website and gadgets. I also evaluated my Part B with believing that my websites and gadgets are enough for future bevause I determined it's benefits to economists in order to improve on economics. My future steps should be improving as needed (Step 7) & Communicate the results (Step 8). 
 
 
