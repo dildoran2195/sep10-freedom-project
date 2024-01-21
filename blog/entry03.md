@@ -1,8 +1,6 @@
 # Entry 3
-##### X/X/XX
+##### 1/21/24
 
-Text
-
-[Previous](entry02.md) | [Next](entry04.md)
-
-[Home](../README.md)
+### Content
+#### I completed my FP synthesize Part A
+for hardware and software, I also completed FB synthesize Part B for both hardware and software. Both of my Part A and Part B is about economics. 
