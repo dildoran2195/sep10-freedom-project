@@ -62,8 +62,7 @@ Chromebook runs on Chrome OS - An operating system by Google that is built for t
 * All the Google apps you know and love come standard on every Chromebook, which means you can edit, download, and convert Microsoft Office files in Google Docs, Sheets and Slides. 
 * Get access to more than 2 million Android apps from Google Play to learn and do more. 
 * Chromebooks come with built-in storage for offline access to your most important files and an additional 100GB of Google Drive space to ensure that all of your files are backed up automatically. 
-* Intel Pentium Silver N6000 Processor (Up to 3.3GHz) | Intel UHD Graphics 
-14.0" HD (1366 x 768) LED-backlit TFT LCD Corning Gorilla Glass Display with Multi-Touch and USI Stylus Compatible | 4GB LPDDR4X On-Board Memory | 128GB eMMC 
+* Intel Pentium Silver N6000 Processor (Up to 3.3GHz) | Intel UHD Graphics
 * Intel Wireless Wi-Fi 6 AX201 802.11ax Dual-Band 2.4GHz and 5GHz featuring 2x2 MU-MIMO technology | Bluetooth 5.1 | DTS Audio with Two Built-in Face-Up Stereo Speakers 
 1 - USB Type C port supporting USB 3.2 Gen 1 (up to 5 Gbps), DisplayPort over USB-C, USB Charging, DC-in | 2 - USB 3.2 Gen 1 ports | 1 - HDMI Port
 OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
@@ -109,7 +108,13 @@ OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
 #### I also completed Step 5 which was test and evaluate the prototype. This step was mostly required to complete my Part B which was doing future plans about websites and gadgets for economists in order to improve economics. I test whatever I found in my with finding companies that does most of the work for my website and gadgets. I also evaluated my Part B with believing that my websites and gadgets are enough for future bevause I determined it's benefits to economists in order to improve on economics. My future steps should be improving as needed (Step 7) & Communicate the results (Step 8). 
 
 ## Skills
-#### One skill that I accomplished is Creativity. I gain this skill from doing my Part B which was plans for future for economists in order to improve on economics. In this part, I used my creativity to find enough websites and gadgets on my own 
+#### One skill that I accomplished is Creativity. I gain this skill from doing my Part B which was plans for future for economists in order to improve on economics. In this part, I used my creativity to find enough websites and gadgets on my own that does not exist yet which was pretty cool.
+
+#### 2nd skill that I accomplished is Embracing failure. When I completed both of my Part A and Part B, Mr. Mueller told as to share wiith onters in 2026 on slack so I did and got great and a bit of dissapointed comments but that dissapointed comments helped to learn from my mistakes. That dissapointed told me that I need to write how my websites gets its information and money, and I also needed some gadgets. Therefore, I found companies that could support my wesbites because their benefits and purpose was similar to purpose and benefits of my websites. For my gadgets I did the same which was great.
+
+## Summary
+#### Finally, I'm excited for my EDP because I only have 2 more steps left to complete because I already got experiences doing Steps 1 through 6. Plus, I'm proud of myself that I did Blog 3. 
+
 
 
 
