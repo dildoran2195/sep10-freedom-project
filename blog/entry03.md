@@ -108,6 +108,8 @@ OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
 
 #### I also completed Step 5 which was test and evaluate the prototype. This step was mostly required to complete my Part B which was doing future plans about websites and gadgets for economists in order to improve economics. I test whatever I found in my with finding companies that does most of the work for my website and gadgets. I also evaluated my Part B with believing that my websites and gadgets are enough for future bevause I determined it's benefits to economists in order to improve on economics. My future steps should be improving as needed (Step 7) & Communicate the results (Step 8). 
 
+## Skills
+#### One skill that I accomplished is Creativity. I gain this skill from doing my Part B which was plans for future for economists in order to improve on economics. In this part, I used my creativity to find enough websites and gadgets on my own 
 
 
 
