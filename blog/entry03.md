@@ -63,6 +63,34 @@ All the Google apps you know and love come standard on every Chromebook, which m
 1 - USB Type C port supporting USB 3.2 Gen 1 (up to 5 Gbps), DisplayPort over USB-C, USB Charging, DC-in | 2 - USB 3.2 Gen 1 ports | 1 - HDMI Port
 OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
 
+### My FB synthesize Part B for `hardware` and `software` is:
+`Software`:
+* EcoAmigo App (Eco-economists)
+* Tells current issues that economists need to solve and it will get its information from being partners with [Deloitte](https://www2.deloitte.com/us/en/insights/economy/global-economic-outlook/weekly-update.html) and The [Conference Board](https://www.conference-board.org/research/us-forecast#:~:text=Our%202024%20US%20economic%20outlook,of%20mandatory%20student%20loan%20repayments.)
+* Tells how to solve these problems and it will get its information from [United Nations](https://www.un.org/sustainabledevelopment/economic-growth/)
+* No cost and it will get money from [The Economist](https://www.economist.com/)
+* Answers your questions and it will get it’s answers from [Expert Assignment](https://www.assignmentexpert.com/homework-answers/economics)
+* Economists App
+* It tells what is wrong with your company or tells how to improve it as long as you’ll introduce your company to it and it gets information from [Yale's University Press](https://yalebooks.yale.edu/book/9780300257496/whats-wrong-with-economics/), [Forbes](https://www.forbes.com/sites/jimosman/2023/12/29/most-well-known-economists-got-it-wrong-in-2023-heres-why/), [The Economist](https://www.economist.com/), and [The Guardian](https://www.theguardian.com/business/2023/nov/19/us-economists-wrong-predictions)
+* Shows examples of other companies or economists for you to have an idea for your new/great company and it gets information from [Harvard Business Review(HBR)](https://hbr.org/2019/02/why-tech-companies-hire-so-many-economists), [LinkedIn](https://www.linkedin.com/pulse/successful-companies-launched-during-economic-downturn-caner-veli), [Business Insider](https://www.businessinsider.com/successful-companies-started-during-past-us-recessions-2020-4), [HubSpot Blog](https://blog.hubspot.com/marketing/companies-that-thrived-during-the-recession), [Yahoo Finance](https://finance.yahoo.com/news/10-companies-industries-money-during-165619500.html), [Startup Savant](https://startupsavant.com/startup-center/companies-that-thrived-during-recession), and [Republic.co](https://republic.com/blog/investor-education/10-unicorns-that-were-founded-during-recessions)
+* Plan My Company App
+* Introduces policy of making company in the USA and it gets information from [The White House (.gov)](https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/), [U.S. Department of the Treasury (.gov)](https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/), [International Monetary Fund (.gov)](https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/), [Board of Governors of the Federal Reserve System (.gov)](https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/), [United States Agency for International Development (.gov)](https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/), and [Federal Trade Commissions (.gov)](https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/)
+* Tells how to make your company rich and it gets information from [University at Buffalo](https://arts-sciences.buffalo.edu/economics/about/careers/what-do-economists-do.html), [University of Michigan](https://sites.lsa.umich.edu/mje/2020/11/17/the-economics-of-billionaires/), and [Asharq Al-Awsat](https://english.aawsat.com/home/article/3637221/peter-coy/%E2%80%98if-economists-are-so-smart-why-ain%E2%80%99t-they-rich%E2%80%99)
+* It shows best Banks for you to get loan to start your company
+* EcoCommunicate App (Eco-economists)
+* Tells news about economics and it will get its information from being partners with [The New York Times](https://www.nytimes.com/section/business/economy), [CNBC](https://www.cnbc.com/economy/), [The Economist](https://www.economist.com/), and [AP News](https://apnews.com/hub/economy)
+* Asks what other things you need to improve yourself or your company and it gets information from [Career Building Tips for Economists](https://programs.online.american.edu/econ/masters-economics/resources/career-building-t), [University of Houston](https://uh.edu/class/economics/undergraduate/internship/general-advice/), [Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/economics-skills), and [IONOMICS](https://inomics.com/advice/10-qualities-that-define-a-good-economist-1140895)
+* Best For Economists App
+* Gives you free laptop and building for your company if your idea is great and beneficial for public, and it gets these things from EBT  free Laptop - Free government Laptop, and Harvard Environmental Economics Program
+People who have idea for economists can contact you for you to improve on it and it gets information from Institute for New Economic Thinking, The Economics Network, and Indiana University - Purdue University Indianapolis
+EcoMoney (Eco-Economists
+This is gadget that economists could have in their office 
+it is going to tell if money is fake or not, and it will be bought or created by Atlassian Support
+Saves economists time and money which paves progress for them to continue they work and not be in trouble for having fake money
+EcoIpad (Eco-Economists)
+This is also gadget that economists could have in their office 
+It is not easy to download apps that I just wrote above such as Best for Economists App, EcoCommunicate App, Plan My Company App, Economists App, and EcoAmigo App because these apps are a lot, takes time, and money from economists to download it therefore this IPad will have all of these already downloaded and paid with Economic Development Administration (.gov), American Economic Association, and United States Department of Agriculture (.gov)
+
 ## EDP
 #### 
 
