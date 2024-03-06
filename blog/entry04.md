@@ -1,8 +1,9 @@
 # Entry 4
-##### X/X/XX
+##### 3/5/24
 
-Text
+#### In this entry I'll talk about how chose tool for my Freedom Project which was complicated, exciting, and fun. 
 
-[Previous](entry03.md) | [Next](entry05.md)
+## Context
+#### I chose Aframe because when I saw what people did with AFrame I loved it and I really wanted to make something that looks like unique device for my Economist App which was from my Part B for my Freedom Project. 
 
-[Home](../README.md)
+#### I tinkered it with......
