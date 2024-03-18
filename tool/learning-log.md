@@ -25,7 +25,7 @@ Make something similar to flower bc its cute
 Try different shapes on Aframe
 Try unique colors on Aframe
 
-3/12/24:
+3/18/24:
 * [I went to example of AFRame](https://webvr.soundboxing.co/?challenge=8751ab88-f679-11ea-9f04-8ea7f69e437c)
 * I learned that Aframealso can create game not just draft of something
 * I was curious about what heppens if i will change box to heart and its color to gold on example code of Aframe so I did it and this is [my result](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/aframe.html)
