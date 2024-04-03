@@ -27,3 +27,20 @@
         </script>
     </body>
 </html>
+
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+  <a-assets>
+    <img id="platform" src="platform.jpg">
+  </a-assets>
+  <!-- Textured circle parallel to ground. -->
+  <a-circle src="#platform" radius="50" rotation="-90 0 0"></a-circle>
+  <a-box></a-box>
+  <a-camera></a-camera>
+</a-scene>
+  </body>
+</html>
