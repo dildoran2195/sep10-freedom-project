@@ -35,10 +35,13 @@ Try unique colors on Aframe
 Try different shapes on Aframe
 Try unique colors on Aframe
 
-3/25/24:
-* My questions are, what shapes can I try on AFrame?
-* My challenge is to learn shapes
-* However, for this learning log, I'll talk about colors, radius, and height
+4/1/24:
+* I Visit this [website](https://aframe.io/docs/1.5.0/introduction/faq.html)
+* I did Seek for example code
+* Use that ex code to make something that applies to your Part B
+* Tinker with code
+* I will Try new shapes
+* Learn how to make 3D model using A-frame
 * [My changes](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/aframe.html)
 * I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/)
 * It gived me intrdocution and code for beginners
@@ -47,7 +50,7 @@ Try unique colors on Aframe
 * [I changed shape of cylinder to device which made box and plane to get out from my black grass or floor](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/aframe.html)
 * My next steps:
 Watch tutorial
-Make something similar to flower bc its cute
+make something similar to 
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
