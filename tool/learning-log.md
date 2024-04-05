@@ -51,6 +51,27 @@ Try unique colors on Aframe
 * My next steps:
 Watch tutorial
 make something similar to
+
+4/4/24:
+* This [website](https://aframe.io/docs/1.5.0/introduction/faq.html) was so cool bc it had code that ican use for free
+* for ex: "<a-dodecahedron color="#FF926B" radius="5"></a-dodecahedron>"
+* I used this and this is [my changes](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/index.html)
+* I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/)
+* It tells what my code was  a dodecahedron or duodecahedron is any polyhedron with twelve flat faces.
+* [I changed all sahpes into new shapes to see hw it looks like](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/index.html)
+* My next steps:
+try adding text
+
+4/5/24:
+* Aframe [website](https://aframe.io/docs/1.5.0/introduction/faq.html) have new shapes for me that i didnt know of
+* for ex: "<a-cone src="#texture"></a-cone>"
+* This code and other shapes made something really cool [my changes](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/index.html)
+* I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/)
+* It tells me that there are diff types of cone but short code for a cone is my fav
+* [I changed all sahpes into new shapes to see hw it looks like](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/index.html)
+* My next steps:
+new unique shapes
+try adding text
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
