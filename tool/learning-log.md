@@ -35,7 +35,7 @@ Try unique colors on Aframe
 Try different shapes on Aframe
 Try unique colors on Aframe
 
-4/1/24:
+4/3/24:
 * I Visit this [website](https://aframe.io/docs/1.5.0/introduction/faq.html)
 * I did Seek for example code
 * Use that ex code to make something that applies to your Part B
@@ -50,7 +50,7 @@ Try unique colors on Aframe
 * [I changed shape of cylinder to device which made box and plane to get out from my black grass or floor](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/aframe.html)
 * My next steps:
 Watch tutorial
-make something similar to 
+make something similar to
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
