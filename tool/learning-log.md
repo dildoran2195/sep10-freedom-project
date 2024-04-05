@@ -54,7 +54,7 @@ make something similar to
 
 4/4/24:
 * This [website](https://aframe.io/docs/1.5.0/introduction/faq.html) was so cool bc it had code that ican use for free
-* for ex: "<a-dodecahedron color="#FF926B" radius="5"></a-dodecahedron>"
+* for ex: '<a-dodecahedron color="#FF926B" radius="5"></a-dodecahedron>'
 * I used this and this is [my changes](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/index.html)
 * I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/)
 * It tells what my code was  a dodecahedron or duodecahedron is any polyhedron with twelve flat faces.
@@ -64,7 +64,7 @@ try adding text
 
 4/5/24:
 * Aframe [website](https://aframe.io/docs/1.5.0/introduction/faq.html) have new shapes for me that i didnt know of
-* for ex: "<a-cone src="#texture"></a-cone>"
+* for ex: '<a-cone src="#texture"></a-cone>'
 * This code and other shapes made something really cool [my changes](https://miniature-spork-5gq6q949q9vj27944-8080.app.github.dev/index.html)
 * I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/)
 * It tells me that there are diff types of cone but short code for a cone is my fav
