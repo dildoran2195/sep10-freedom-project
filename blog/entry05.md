@@ -1,8 +1,35 @@
 # Entry 5
-##### X/X/XX
+#### 4/15
 
-Text
+# Economics
 
-[Previous](entry04.md) | [Next](entry06.md)
+## Content
 
-[Home](../README.md)
+#### In this blog I will be talking about what I learned about A-Frame, how I learned A-Frame, what changes/try/tinkering/and make. i will also provide sources, code snippets, and links to my changes as my evidence of learning.
+
+## What I learned about A-Frame:
+
+####
+
+## How I learned A-Frame:
+
+#### 
+
+## My changes/tinkering,trying and making:
+
+#### 
+
+## Evidence of my learning:
+
+####
+
+## Sources:
+
+#### 
+
+## Skills:
+
+#### 
+
+
+
