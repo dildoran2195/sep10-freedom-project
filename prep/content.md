@@ -5,7 +5,7 @@ Topic: Economics
 * Text
 * Text
 
-## Part A: existing technology
+## Part A: Existing technology
 * Software:
 1) [Website](https://images.sftcdn.net/images/t_app-icon-m/p/93a14b7c-96d4-11e6-b980-00163ed833e7/1884510348/gretl-1884510348.png)
 Used by mainly econometrics and public
@@ -62,6 +62,30 @@ Intel Wireless Wi-Fi 6 AX201 802.11ax Dual-Band 2.4GHz and 5GHz featuring 2x2 MU
 OceanGlass Touchpad | Up to 10 hours of battery life | Chrome OS
 
 
-## Part B: possible future technology
-* Idea
-  * Detail
+## Part B: Possible future technology
+* EcoAmigo App (Eco-economists)
+Tells current issues that economists need to solve and it will get its information from being partners with Deloitte and The Conference Board
+Tells how to solve these problems and it will get its information from United Nations
+No cost and it will get money from The Economist
+Answers your questions and it will get it’s answers from Expert Assignment
+* Economists App
+It tells what is wrong with your company or tells how to improve it as long as you’ll introduce your company to it and it gets information from Yale's University Press, Forbes, The Economist, and The Guardian
+Shows examples of other companies or economists for you to have an idea for your new/great company and it gets information from Harvard Business Review(HBR), LinkedIn, Business Insider, HubSpot Blog, Yahoo Finance, Startup Savant, and Republic.co
+* Plan My Company App
+Introduces policy of making company in the USA and it gets information from The White House (.gov), U.S. Department of the Treasury (.gov), International Monetary Fund (.gov), Board of Governors of the Federal Reserve System (.gov), United States Agency for International Development (.gov), and Federal Trade Commissions (.gov)
+Tells how to make your company rich and it gets information from University at Buffalo, University of Michigan, and Asharq Al-Awsat
+It shows best Banks for you to get loan to start your company
+* EcoCommunicate App (Eco-economists)
+Tells news about economics and it will get its information from being partners with The New York Times, CNBC, The Economist, and AP News
+Asks what other things you need to improve yourself or your company and it gets information from Career Building Tips for Economists, University of Houston, Indeed, and IONOMICS
+Best For Economists App
+Gives you free laptop and building for your company if your idea is great and beneficial for public, and it gets these things from EBT  free Laptop - Free government Laptop, and Harvard Environmental Economics Program
+People who have idea for economists can contact you for you to improve on it and it gets information from Institute for New Economic Thinking, The Economics Network, and Indiana University - Purdue University Indianapolis
+* EcoMoney (Eco-Economists)
+This is gadget that economists could have in their office
+it is going to tell if money is fake or not, and it will be bought or created by Atlassian Support
+Saves economists time and money which paves progress for them to continue they work and not be in trouble for having fake money
+* EcoIpad (Eco-Economists)
+This is also gadget that economists could have in their office
+It is not easy to download apps that I just wrote above such as Best for Economists App, EcoCommunicate App, Plan My Company App, Economists App, and EcoAmigo App because these apps are a lot, takes time, and money from economists to download it therefore this IPad will have all of these already downloaded and paid with Economic Development Administration (.gov), American Economic Association, and United States Department of Agriculture (.gov)
+
