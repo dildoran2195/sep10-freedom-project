@@ -11,13 +11,29 @@
 * [Text](URL)
 
 ## Timeline
+* 4/13/24 finish WireFrame
+* 4/14/24 start plan.md
+* 4/15/24 start content.md
+* 4/16/24 finish context.md
+* 4/17/24 start coding, start with <href>bvjhdbrljerhjchbirubcjfr<href><a>
 
 #### MVP
 
-* Task/Timeline
+* Hex Color Code
+* Heading
+* Context
+* Part A
+* Part B
+* Aframe
+* CSS
+* HTML
+* Bootstrap
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Use Wireframe
+* Check rubric
+* Final changes or edits
+* Finish project
