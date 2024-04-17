@@ -1,0 +1,98 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    color: #22381f;
+    background-color: #ffdfb5;
+}
+
+p {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.nm,
+.mn {
+    display: table;
+}
+
+.nm {
+    width: 100%;
+    padding: 40px 0;
+}
+
+.mn {
+    height: 100%;
+}
+
+.vert-center {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+/*one*/
+
+#one h1,
+#one h2 {
+
+    color: #c4d7f1;
+    /*off-white*/
+}
+
+#one {
+    background: linear-gradient( rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url('../img/balloon-1.jpg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 75%;
+}
+
+h2 {
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+/*end one*/
+
+/*navbar*/
+
+.affix {
+    top: 0;
+    width: 100%;
+}
+
+.affix + .container {
+    padding-top: 125px;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar {
+    border-width: 0;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+/*end navbar*/
+
