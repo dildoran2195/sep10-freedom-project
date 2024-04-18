@@ -65,7 +65,17 @@ h2 {
     padding-bottom: 10px;
 }
 
-/*end one*/
+/*Context*/
+
+ h1 {
+    background-color:#4682b4;
+    font-family: 'Cinzel', serif;
+  }
 
 
+
+ #context-id {
+    background-color: #FFC0CB;
+    font-family: 'Nothing You Could Do', cursive;
+ }
 
