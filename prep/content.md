@@ -16,8 +16,8 @@ Topic: Economics
 3) [MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
 *   Used my students, public, and econometrics
 *   It have get support
-*   MATLAB can be used with a lot, academic, different, and significant stuff
-*   One of the Capabilities of this website is all building
+*   MATLAB can be used with a lot, academi*
+* One of the Capabilities of this website is all building, different, and significant stuff
 4) [Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSU45FkTOfnSYMoF76emsspAXVJD9psJkFOg&usqp=CAU)
 *   Used by public and economists
 *   Benefits
