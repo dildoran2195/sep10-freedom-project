@@ -4,4 +4,4 @@
         <a-entity geometry="primitive: octahedron; radius: 2"></a-entity>
         <a-entity geometry="primitive: dodecahedron; radius: 2"></a-entity>
         <a-sky color="#808000"></a-sky>
-      </a-scene> -->
+  </a-scene> -->
