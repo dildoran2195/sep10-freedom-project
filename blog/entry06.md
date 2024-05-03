@@ -10,14 +10,14 @@
 ## How I made my MVP:
 #### I made my MVP by having Timeline, writing down what code I need for my MVP, and beyond MVP:
 
-## Timeline
+### Timeline
 * 4/13/24 finish WireFrame
 * 4/14/24 start plan.md
 * 4/15/24 start content.md
 * 4/16/24 finish context.md
 * 4/17/24 start coding, start with <href>bvjhdbrljerhjchbirubcjfr<href><a>
 
-#### MVP
+### MVP
 
 * Hex Color Code
 * Heading
@@ -31,7 +31,7 @@
 
 ---
 
-#### Beyond MVP
+### Beyond MVP
 
 * Use Wireframe
 * Check rubric
