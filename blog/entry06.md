@@ -1,8 +1,8 @@
 # Entry 6
 ##### 05/03/24
 
-Text
+# Economics
 
-[Previous](entry05.md) | [Next](entry07.md)
+## Content
 
-[Home](../README.md)
+#### In this Blog, I'll be talking about how I makde my MVP, challenges & takeaways while making my MVP.
