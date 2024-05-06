@@ -51,8 +51,15 @@
 
 
 ## Sources:
-
-
+* I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/) that gives me introduction and code for beginners
+* [I went to example of AFRame](https://webvr.soundboxing.co/?challenge=8751ab88-f679-11ea-9f04-8ea7f69e437c) so I learned that A Frame also can create game not just draft of something
+* [I went to example of AFRame](https://webvr.soundboxing.co/?challenge=8751ab88-f679-11ea-9f04-8ea7f69e437c) so I learned that A Frame also can create game not just draft of something
+* I Visit this [website](https://aframe.io/docs/1.5.0/introduction/faq.html) bc I did Seek for example code and I used that ex code to make something that applies to your Part B. I also Tinker with code
+* Learn how to make 3D model using A-frame
+* This [website](https://aframe.io/docs/1.5.0/introduction/faq.html) was so cool bc it had code that i can use for free
+* for ex: `<a-dodecahedron color="#FF926B" radius="5"></a-dodecahedron>`
+* Aframe [website](https://aframe.io/docs/1.5.0/introduction/faq.html) have new shapes for me that i didn't know of
+* for ex: `<a-cone src="#texture"></a-cone>`
 
 
 ## EDP:
