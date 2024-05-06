@@ -42,7 +42,10 @@
 
 
 ## Challenges & Takeaways:
-One challenge that I faced was making menu on my website. I did #context
+
+#### One challenge that I faced was making menu on my website. I did `#context` to make link in order to cerate menu but it didn't work even though I asked for help from one of my peers because she also didn't got it like me. Therefore, I asked help from Mr. Mueller and when he was taking look on my code, I realized that I was missing `#context` in here `<li><a class="dropdown-item" href="#context">Context</a></li>` and I was proud of myself for solving my own issue so far and I fixed that problem. Also, I made link for each section of my website in order to make menu!
+
+#### 
 
 
 
