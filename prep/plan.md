@@ -33,7 +33,10 @@
 
 #### Beyond MVP
 
-* Use Wireframe
-* Check rubric
-* Final changes or edits
-* Finish project
+* [typos in your context] incomplete task
+* [add images to make your website better] incomplete task
+* [change the fonts so it is easier to read] incomplete task
+* [add borders around to make it more easier to read as well] incomplete task
+
+
+
