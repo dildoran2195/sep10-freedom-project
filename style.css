@@ -5,8 +5,8 @@ body {
 }
 
 body {
-    color: #22381f;
-    background-color: #ffdfb5;
+    color: #FFC0CB ;
+    background-color: #003663;
 }
 
 p {
@@ -53,14 +53,14 @@ h4 {
 }
 
 h1 {
-    font-family: 'Cinzel', serif;
+    font-family: "Jersey 10", sans-serif;
     font-weight: 700;
     font-size: 55px;
     line-height: 75%;
 }
 
 h2 {
-    font-family: "Abel", sans-serif;
+    font-family: "Jersey 10", sans-serif;
     font-size: 25px;
     padding-bottom: 10px;
 }
@@ -68,7 +68,7 @@ h2 {
 /*Context*/
 
  h1 {
-    font-family: 'Cinzel', serif;
+    font-family: "Jersey 10", sans-serif;
     font-size: 25px;
   }
 
@@ -76,7 +76,7 @@ h2 {
 
  #context-id {
     background: linear-gradient( rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url('../img/balloon-1.jpg') center no-repeat fixed;
-    font-family: "Abel", sans-serif;
+    font-family: "Jersey 10", sans-serif;
     text-align: center;
     font-size: 25px;
  }
