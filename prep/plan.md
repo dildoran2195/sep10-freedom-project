@@ -34,9 +34,9 @@
 #### Beyond MVP
 
 * [typos in your context] incomplete task
-* [add images to make your website better] incomplete task
+* [make background color more unique] incomplete task
 * [change the fonts so it is easier to read] incomplete task
-* [add borders around to make it more easier to read as well] incomplete task
+* [missing possible solutions] incomplete task
 
 
 

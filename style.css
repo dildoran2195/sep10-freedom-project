@@ -5,12 +5,13 @@ body {
 }
 
 body {
-    color: #FFC0CB ;
+    color: #d0bdf4 ;
     background-color: #003663;
 }
 
 p {
     font-size: 20px;
+   background-image: url('eco.png');
 }
 
 h4 {
@@ -81,3 +82,9 @@ h2 {
     font-size: 25px;
  }
 
+#possible {
+    color: #a0d2eb;
+    font-family: "Jersey 10", sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
