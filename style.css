@@ -5,14 +5,23 @@ body {
 }
 
 body {
-    color: #d0bdf4 ;
+    color: #ADD8E6	 ;
     background-color: #003663;
 }
 
 p {
     font-size: 20px;
-   background-image: url('eco.png');
+
 }
+
+#context-id {
+    padding-top: 70px;
+    padding-right: 60px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+  }
+
+
 
 h4 {
     font-size: 25px;
