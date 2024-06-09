@@ -39,10 +39,11 @@
 
 #### Since I finished 1, 2, 3 of EDP, my next step was to Create a Prototype which means a first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied. In this case, my prototype was  my [wesbite](https://dildoran2195.github.io/sep10-freedom-project/) that turned out to be pretty cool even though it was late because I believe it was draft of my SEP10 Project. An improvement for my project was completed so my presentation in class and at the expo was far enough. I had enough time to do any step of my EDP and my final project took my whole entire year to learn and complete only to present in class and at the expo which was exciting and not easy for most of the time. 
 
-#### My next step was to improve the Test and evaluate the prototype and I did this by considering each of them to test and evaluate my prototype and do my best in both class presentations and at expo presentations. Also, The last few stages of the engineering design process was done by me which was to improve as needed alongside communicating the results. A gallery walk in class and receiving growth and glows from my peers were keys to improve my pr1  object. In order to acknowledge and work on issues about my project which I was sometimes completely unaware of, I considered feedback about my project.Therefore, my presentation in both class presentation and at the expo was gained by communicating.
+#### My next step was to improve the Test and evaluate the prototype and I did this by considering each of them to test and evaluate my prototype and do my best in both class presentations and at expo presentations. Also, The last few stages of the engineering design process was done by me which was to improve as needed alongside communicating the results. A gallery walk in class and receiving growth and glows from my peers were keys to improve my poject. In order to acknowledge and work on issues about my project which I was sometimes completely unaware of, I considered feedback about my project.Therefore, my presentation in both class presentation and at the expo was gained by communicating my results.
 
+### Summery/Reflection
 
-
+#### Even though I faced a lot of challenges, I gained more skills and takeaways. Therefore, it is my goal to work on future projects to do better in SEP11, where I can brainstorm more ideas relating to economics or another topic that I´m passionate about.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
