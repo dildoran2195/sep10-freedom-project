@@ -7,7 +7,7 @@
 
 ### Skills
 
-#### Skills that I gained were self-learning: learning something independently is hard so use much sources as you need  and ask for help from your friends, teacher, etc. I also gained time management:I learned dealing with my time effectively. Organization is my new skill too:I learned to better categorize and Different components of my project and in my life. 
+#### Skills that I gained were self-learning: learning something independently is hard so use much sources as you need  and ask for help from your friends, teacher, etc. I also gained time management:I learned dealing with my time effectively. Organization is my new skill too:I learned to better categorize and Different components of my project and in my life. One skill that I accomplished is How to Learn. Since I was a person who chose A-Frame, it was my job/responsibility to learn how to use A-Frame in order to create whatever I want to create for my SEP10. How I accomplished this skill was by using any source that I was able to such as:
 
 
 
