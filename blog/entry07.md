@@ -6,6 +6,12 @@
 
 #### In this blog, I´ll talk about,how I presented my MVP in class presentataion and at expo, challenges & takeaways, EDP, Sources, Skills with links and code snippets while presenting my MVP. The minimum viable products were filled by me and my project was functional b/c I made components for it which is my navbar. Navbar is going to scroll to a designated section of both my project & A-frame model. Therefore, the camera in both of my project & model is movable and my model is complete even though I need more images so present on my website. In order to provide adequate context to my research topic on economics, I used Google & LOYO tool (Aframe). Practical and original can be described by my wesbite. Also,The minimum requirements helped me to get 10/10 for my product. Asking many questions from my peers and teachers was key to complete my entire project. I was not sufficemt in terms of visuals and presence even though I handled the hood, coherence, and conclusion. 
 
+### Skills
+
+#### Skills that I gained were self-learning: learning something independently is hard so use much sources as you need  and ask for help from your friends, teacher, etc. I also gained time management:I learned dealing with my time effectively. Organization is my new skill too:I learned to better categorize and Different components of my project and in my life. 
+
+
+
 ## Challenges & Takeaways:
 
 #### One challenge that I faced was making an eye contact beside the teacher in my class presentation. Also, everything was going well but I supposed to not read off the screen during my class presentation. Therefore, 2 points were taken away from my score. However, I did `#context` to make link in order to cerate menu but it didn't work even though I asked for help from one of my peers because she also didn't got it like me. Therefore, I asked help from Mr. Mueller and when he was taking look on my code, I realized that I was missing `#context` in here `<li><a class="dropdown-item" href="#context">Context</a></li>` and I was proud of myself for solving my own issue so far and I fixed that problem. Also, I made link for each section of my website in order to make menu!
