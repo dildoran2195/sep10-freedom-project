@@ -7,7 +7,10 @@
 
 ### Skills
 
-#### Skills that I gained were self-learning: learning something independently is hard so use much sources as you need  and ask for help from your friends, teacher, etc. I also gained time management:I learned dealing with my time effectively. Organization is my new skill too:I learned to better categorize and Different components of my project and in my life. One skill that I accomplished is How to Learn. Since I was a person who chose A-Frame, it was my job/responsibility to learn how to use A-Frame in order to create whatever I want to create for my SEP10. How I accomplished this skill was by using any source that I was able to such as:
+#### Skills that I gained were self-learning: learning something independently is hard so use much sources as you need  and ask for help from your friends, teacher, etc. I also gained time management:I learned dealing with my time effectively. Organization is my new skill too:I learned to better categorize and Different components of my project and in my life. Therefore, my presenation at both in class and at the expo was beneficial b/c it was learning and comfort zone for me.
+
+#### One skill that I accomplished during my presentaion in class and at the expo was How to Learn b/c I heard, saw, and learned how my peers were presenting their project to us and judges. Another skill I accomplished was Consideration b/c I considered rubric and exmaples of how to present my project in both class presentation and at the expo. Therefore, better independence were gained in both class presenation and at the expo. Also, I was not being too overwhelmed and giving myselft a break b/c i respect myself.
+
 
 
 ## Challenges & Takeaways:
