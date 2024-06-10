@@ -41,7 +41,7 @@
 
 #### My next step was to improve the Test and evaluate the prototype and I did this by considering each of them to test and evaluate my prototype and do my best in both class presentations and at expo presentations. Also, The last few stages of the engineering design process was done by me which was to improve as needed alongside communicating the results. A gallery walk in class and receiving growth and glows from my peers were keys to improve my poject. In order to acknowledge and work on issues about my project which I was sometimes completely unaware of, I considered feedback about my project.Therefore, my presentation in both class presentation and at the expo was gained by communicating my results.
 
-### Summery/Reflection
+### Summary/Reflection
 
 #### Even though I faced a lot of challenges, I gained more skills and takeaways. Therefore, it is my goal to work on future projects to do better in SEP11, where I can brainstorm more ideas relating to economics or another topic that I´m passionate about.
 
