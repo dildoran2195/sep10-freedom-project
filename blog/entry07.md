@@ -11,7 +11,7 @@
 
 #### One skill that I accomplished during my presentation in class and at the expo was How to Learn b/c I heard, saw, and learned how my peers were presenting their project to us and judges. Another skill I accomplished was Consideration b/c I considered rubric and examples of how to present my project in both class presentation and at the expo. Therefore, better independence was gained in both class presentation and at the expo. Also, I was not being too overwhelmed and giving myself a break because I respect myself.
 
-## Challenges & Takeaways:
+## Challenges/Takeaways
 
 #### One challenge that I faced was making eye contact beside the teacher in my class presentation. Also, everything was going well but I was supposed to not read off the screen during my class presentation. Therefore, 2 points were taken away from my score. However, I did my best to complete my project. for ex, I did `#context` to make a link in order to create a menu but it didn't work even though I asked for help from one of my peers because she also didn't get it like me. Therefore, I asked help from Mr. Mueller and when he was taking look on my code, I realized that I was missing `#context` in here `<li><a class="dropdown-item" href="#context">Context</a></li>` and I was proud of myself for solving my own issue so far and I fixed that problem. Also, I made links for each section of my website in order to make a menu!
 
@@ -24,15 +24,6 @@
 * [My slides](https://docs.google.com/presentation/d/1pilTcnCCoL7YhRyM-_lbKd9Oc-n7NUuJBKEmKrluLvU/edit#slide=id.p)
 * [My project](https://dildoran2195.github.io/sep10-freedom-project/)
 * [My product](https://dildoran2195.github.io/sep10-freedom-project/aframe.html)
-* I read [A-Frame](https://aframe.io/docs/1.5.0/introduction/) that gives me introduction and code for beginners
-* [I went to example of AFRame](https://webvr.soundboxing.co/?challenge=8751ab88-f679-11ea-9f04-8ea7f69e437c) so I learned that A Frame also can create game not just draft of something
-* [I went to example of AFRame](https://webvr.soundboxing.co/?challenge=8751ab88-f679-11ea-9f04-8ea7f69e437c) so I learned that A Frame also can create game not just draft of something
-* I Visit this [website](https://aframe.io/docs/1.5.0/introduction/faq.html) bc I did Seek for example code and I used that ex code to make something that applies to your Part B. I also Tinker with code
-* Learn how to make 3D model using A-frame
-* This [website](https://aframe.io/docs/1.5.0/introduction/faq.html) was so cool bc it had code that i can use for free
-* for ex: `<a-dodecahedron color="#FF926B" radius="5"></a-dodecahedron>`
-* Aframe [website](https://aframe.io/docs/1.5.0/introduction/faq.html) have new shapes for me that i didn't know of
-* for ex: `<a-cone src="#texture"></a-cone>`
 
 
 ## EDP:
