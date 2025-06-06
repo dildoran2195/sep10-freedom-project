@@ -5,26 +5,22 @@ Entry 6
 
 ### Takeaways from Finishing Remaining BMVP (Beyond Minimum Viable Product), Expo elevator pitch, and in-class presentation
 
-#### During the past weeks, I successfully completed my MVP with Michaela that includes our website and our simulation using Babylon as well as our presenation from Finishing Remaining MVP (Beyond Minimum Viable Product), Expo elevator pitch, and in-class presentation. Therefore, I will talk about my takeaways, Skills, EDP, professionalism, as well as links to our sources of our notes and slides. 
+#### During the past weeks, I successfully completed my MVP with Michaela that includes our website and our final simulation using Babylon as well as our presenation from Finishing Remaining MVP (Beyond Minimum Viable Product), Expo elevator pitch, and in-class presentation. Therefore, I will talk about my takeaways, Skills, EDP, professionalism, as well as links to our sources of our notes and slides. 
 
-#### Even though I and Michaela successfuly finished our minimum viable product, my job was to make our wesbite intercative but it was still lacking imgaes, missing attractive features, and more texture along with more babylon since we wanted to make our website professional. 
-###### Textures
+#### Even though I and Michaela successfuly finished our minimum viable product, my job was to make our wesbite interactive and more visual like modern websites but it was still lacking imgaes, missing attractive features, and more texture along with more babylon since we wanted to make our website professional. 
+###### Background
 
 ``` JS
-const material = new BABYLON.StandardMaterial("baseMaterial", scene);
 
-  material.emissiveColor = new BABYLON.Color3(0.5, 0.5, 0.5);
+    const backgroundLayer = new BABYLON.Layer("backgroundLayer", "white.jpg", scene, true); //use img as background
 
-  // apply working texture
-  material.diffuseTexture = new BABYLON.Texture("metal.jpg", scene);
-
-  base.material = material;
-    }
+<img src="BLOOD3.jpg" style="width:50%" class="center">>
 ```
+![Screenshot 2025-06-06 1 37 40 PM](https://github.com/user-attachments/assets/2e116969-be44-4371-aa19-3dfad8085189)
 
-![Screenshot 2025-05-30 10 21 19 AM](https://github.com/user-attachments/assets/0a521f8b-7e25-4686-89b4-7967c56cb5d7)
 
-Analysis: In this particular case, we were adjusting the base aspects of our model which we wanted to make appear metal. To do this, we had to first create an image and later refer to that image to be able to apply it to our base. We applied this same process to make our blood spheres grasp a fluid like texture by creating a fluid texture image and later referring it to our sphere variable. 
+Analysis: In this spacific case, we were fixing our website with final touches since our website had limited Use of Images. Even though we had few images for our product, we literally had nothing visual or interactive for our background website so the visual appeal could be enhanced by more high-quality or illustrations of brain which is what I did. I set the background image using a Layer which doesn't overlap 3D model with image of brain. Therefore, our website was better with final touches and more visual and interactive background to get attention of our audience once they look at our website.
+
 
 ###### Presenting Our Product
 
@@ -35,6 +31,8 @@ We found many difficulties in trying to plan our presentation to both the class 
 ![Screenshot 2025-05-30 10 25 33 AM](https://github.com/user-attachments/assets/42024efa-ca61-4042-aad6-fe4cb04d9d68)
 
 Analysis: Ultimately, we had to clearly communicate to each other our progress and make clear what role we were committing to. We did this through assigned slides which helped us the most in determining our connections and differences in formulating an overall product. Being able to identify our standpoints helped us to clearly connect our combined efforts throughout this project and tie that progress back to our primary goal and aspirations.
+
+No Interactive Features: There are no interactive elements like animations, hover effects, transitions, or user-driven interactions such as forms or dynamic content updates.
 
 ### Engineering Design Process
 
